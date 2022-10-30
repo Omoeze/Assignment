@@ -165,7 +165,7 @@
 // }
 
 let ClientPassword = ["Username", "First Name", "Last Name", "Email"];
-let input = "Username";
+let input = "";
 
 if (input === ClientPassword[0]) {
   console.log("Your password is correct");
