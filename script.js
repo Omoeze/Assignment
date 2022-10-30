@@ -166,7 +166,7 @@
 
 let ClientPassword = ["Username", "First Name", "Last Name", "Email"];
 let input = ""; 
-//input any of the values into the array to validate login details
+//input any of the array values into the empty input variable to validate login details
 
 if (input === ClientPassword[0]) {
   console.log("Your password is correct");
